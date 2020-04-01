@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Finbuckle/config
+/.vs
+/Finbuckle.ObjectOptions.AspNetCore3.1/bin/Debug/netcoreapp3.1
+/Finbuckle.ObjectOptions.AspNetCore3.1/obj
